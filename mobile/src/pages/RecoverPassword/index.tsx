@@ -82,8 +82,8 @@ const RecoverPassword = () => {
             >
                 <View>
                     <Image source={ProffImg} style={styles.imgProff} />
-                    <Text style={styles.imgProffText}> Sua plataforma de{'\n'}
-                        <Text> estudos online</Text>
+                    <Text style={styles.imgProffText}>Sua plataforma de{'\n'}
+                        <Text>estudos online</Text>
                     </Text>
                 </View>
             </ImageBackground>
@@ -106,7 +106,7 @@ const RecoverPassword = () => {
 
                     <Text style={styles.description}>
                         Não esquenta,{'\n'}
-                        <Text> vamos dar um jeito nisso.</Text>
+                        <Text>vamos dar um jeito nisso.</Text>
                     </Text>
                 </View>
 
